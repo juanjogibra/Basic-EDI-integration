@@ -1,0 +1,2517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="xml" source-language="en-US" target-language="es" original="Basic-EDI-integration">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3978746229 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Activities Cue</source>
+          <target>Actividades</target>
+          <note from="Developer" annotates="general" priority="2">Actividades</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIActivitiesCue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3978746229 - Field 2426259780 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Created Outbound Box</source>
+          <target>Entrantes creadas</target>
+          <note from="Developer" annotates="general" priority="2">Entrantes creadas</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIActivitiesCue - Field CreatedInboundBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3978746229 - Field 509845217 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Created Outbound Box</source>
+          <target>Salientes creadas</target>
+          <note from="Developer" annotates="general" priority="2">Salientes creadas</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIActivitiesCue - Field CreatedOutboundPurchInvsBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3978746229 - Field 1924681063 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Custom Web Services</source>
+          <target>Servicios web personalizados</target>
+          <note from="Developer" annotates="general" priority="2">Servicios web personalizados</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIActivitiesCue - Field CustomWebServices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3978746229 - Field 2227067932 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Inbound Box</source>
+          <target>Entrantes a la espera</target>
+          <note from="Developer" annotates="general" priority="2">Entrantes a la espera</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIActivitiesCue - Field InboundBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3978746229 - Field 365156915 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Outbound Box</source>
+          <target>Salientes a la espera</target>
+          <note from="Developer" annotates="general" priority="2">Salientes a la espera</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIActivitiesCue - Field OutboundBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3978746229 - Field 136195992 - Property 2879900210" size-unit="char" translate="yes">
+          <source>REST Log</source>
+          <target>Log REST</target>
+          <note from="Developer" annotates="general" priority="2">Log REST</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIActivitiesCue - Field RestLog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3978746229 - Field 1590403484 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Web Service Connections</source>
+          <target>Conexiones Servicios Web</target>
+          <note from="Developer" annotates="general" priority="2">Conexiones Servicios Web</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIActivitiesCue - Field WebServiceConnections - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1798125964 - Property 2879900210" size-unit="char" translate="yes">
+          <source>ABPEDIEDIBreakdownSalesLine</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDIBreakdownSalesLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1798125964 - Field 2877034268 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Amount allocated to this place</source>
+          <target>Cantidad destinada a este lugar</target>
+          <note from="Developer" annotates="general" priority="2">Cantidad destinada a este lugar</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDIBreakdownSalesLine - Field CANTIDAD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1798125964 - Field 1881450674 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Clave 1</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDIBreakdownSalesLine - Field EDIKey1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1798125964 - Field 4263328119 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Clave 2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDIBreakdownSalesLine - Field EDIKey2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1798125964 - Field 606057440 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Clave 3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDIBreakdownSalesLine - Field EDIKey3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1798125964 - Field 3724658938 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI Label</source>
+          <target>Etiqueta</target>
+          <note from="Developer" annotates="general" priority="2">Etiqueta</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDIBreakdownSalesLine - Field EDILabel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1798125964 - Field 1117818535 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Request Delivery Date/Time</source>
+          <target>Fecha/hora de entrega solicitada</target>
+          <note from="Developer" annotates="general" priority="2">Fecha/hora de entrega solicitada</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDIBreakdownSalesLine - Field FECHENTR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1798125964 - Field 2865750343 - Property 2879900210" size-unit="char" translate="yes">
+          <source>FechUlt</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDIBreakdownSalesLine - Field FechUlt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1798125964 - Field 3964734039 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Destination place EDI Code</source>
+          <target>Código EDI del lugar de destino de la mercancía</target>
+          <note from="Developer" annotates="general" priority="2">Código EDI del lugar de destino de la mercancía</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDIBreakdownSalesLine - Field LUGAR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1798125964 - Field 3962353842 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Related destination place</source>
+          <target>Lugar de destino relacionado</target>
+          <note from="Developer" annotates="general" priority="2">Lugar de destino relacionado</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDIBreakdownSalesLine - Field LUGARREL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1798125964 - Field 1268265179 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Destination Place Name</source>
+          <target>Nombre del lugar de destino de la mercancía</target>
+          <note from="Developer" annotates="general" priority="2">Nombre del lugar de destino de la mercancía</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDIBreakdownSalesLine - Field NOMBRE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1968858932 - Field 1881450674 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Clave 1</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesComment - Field EDIKey1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1968858932 - Field 4263328119 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Clave 2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesComment - Field EDIKey2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1968858932 - Field 606057440 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Clave 3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesComment - Field EDIKey3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1968858932 - Field 3724658938 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI Label</source>
+          <target>Etiqueta</target>
+          <note from="Developer" annotates="general" priority="2">Etiqueta</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesComment - Field EDILabel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1968858932 - Field 2406501207 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Tema</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesComment - Field Tema - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1968858932 - Field 3233571925 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Texto1</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesComment - Field Texto1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1968858932 - Field 2595875308 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Texto2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesComment - Field Texto2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1968858932 - Field 1958178691 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Texto3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesComment - Field Texto3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1968858932 - Field 1320482074 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Texto4</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesComment - Field Texto4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1968858932 - Field 682785457 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Texto5</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesComment - Field Texto5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI Orders V24</source>
+          <target>Pedidos EDI V24</target>
+          <note from="Developer" annotates="general" priority="2">Pedidos EDI V24</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - NamedType 776106755" size-unit="char" translate="yes">
+          <source>***** ERROR:El pedido %1 para el cliente %2 ya existe en Navision con el numero %3 y se ha enviado en el albaran %4</source>
+          <target>***** ERROR:El pedido %1 para el cliente %2 ya existe en Navision con el numero %3 y se ha enviado en el albaran %4</target>
+          <note from="Developer" annotates="general" priority="2">***** ERROR:El pedido %1 para el cliente %2 ya existe en Navision con el numero %3 y se ha enviado en el albaran %4</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - NamedType AlreadyExistAndSentOrderErr</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - NamedType 2034853730" size-unit="char" translate="yes">
+          <source>***** ERROR:El pedido %1 para el cliente %2 ya existe en Navision con el numero %3</source>
+          <target>***** ERROR:El pedido %1 para el cliente %2 ya existe en Navision con el numero %3</target>
+          <note from="Developer" annotates="general" priority="2">***** ERROR:El pedido %1 para el cliente %2 ya existe en Navision con el numero %3</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - NamedType AlreadyExistOrderErr</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - NamedType 3621259247" size-unit="char" translate="yes">
+          <source>***** ERROR:El %1 con código %2 esta bloqueado. Revisar.</source>
+          <target>***** ERROR:El %1 con código %2 esta bloqueado. Revisar.</target>
+          <note from="Developer" annotates="general" priority="2">***** ERROR:El %1 con código %2 esta bloqueado. Revisar.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - NamedType BlockedErr</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - NamedType 3617541051" size-unit="char" translate="yes">
+          <source>***** ERROR:Existe más de un producto con EAN %1 en el sistema para el cliente %2. Revisar.</source>
+          <target>***** ERROR:Existe más de un producto con EAN %1 en el sistema para el cliente %2. Revisar.</target>
+          <note from="Developer" annotates="general" priority="2">***** ERROR:Existe más de un producto con EAN %1 en el sistema para el cliente %2. Revisar.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - NamedType MoreThanOneItemEANCustErr</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - NamedType 1541726604" size-unit="char" translate="yes">
+          <source>***** ERROR:Existe más de un producto con EAN %1 en el sistema. Revisar.</source>
+          <target>***** ERROR:Existe más de un producto con EAN %1 en el sistema. Revisar.</target>
+          <note from="Developer" annotates="general" priority="2">***** ERROR:Existe más de un producto con EAN %1 en el sistema. Revisar.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - NamedType MoreThanOneItemEANErr</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - NamedType 2980656333" size-unit="char" translate="yes">
+          <source>***** ERROR:Existe más de una direccion de entrega para el cliente %1 con EAN %2 en el sistema. Revisar.</source>
+          <target>***** ERROR:Existe más de una direccion de entrega para el cliente %1 con EAN %2 en el sistema. Revisar.</target>
+          <note from="Developer" annotates="general" priority="2">***** ERROR:Existe más de una direccion de entrega para el cliente %1 con EAN %2 en el sistema. Revisar.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - NamedType MoreThanShipToCustErr</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - NamedType 1344836440" size-unit="char" translate="yes">
+          <source>***** ERROR:No se encuenta una dirección de entrega para el cliente %1 con EAN %2</source>
+          <target>***** ERROR:No se encuenta una dirección de entrega para el cliente %1 con EAN %2</target>
+          <note from="Developer" annotates="general" priority="2">***** ERROR:No se encuenta una dirección de entrega para el cliente %1 con EAN %2</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - NamedType NotAdrressCustomerErr</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - NamedType 3864595682" size-unit="char" translate="yes">
+          <source>***** ERROR:No se encuentra ningún cliente con EAN %1, AQSF %2 y Receptor %3</source>
+          <target>***** ERROR:No se encuentra ningún cliente con EAN %1, AQSF %2 y Receptor %3</target>
+          <note from="Developer" annotates="general" priority="2">***** ERROR:No se encuentra ningún cliente con EAN %1, AQSF %2 y Receptor %3</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - NamedType NotEANCustomerErr</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - NamedType 1581060874" size-unit="char" translate="yes">
+          <source>***** ERROR:El producto referenciado en el EAN %1 con código %2 no existe</source>
+          <target>***** ERROR:El producto referenciado en el EAN %1 con código %2 no existe</target>
+          <note from="Developer" annotates="general" priority="2">***** ERROR:El producto referenciado en el EAN %1 con código %2 no existe</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - NamedType NotReferenceItemErr</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - NamedType 3779915554" size-unit="char" translate="yes">
+          <source>***** ERROR: Al procesar el registro:%1</source>
+          <target>***** ERROR: Al procesar el registro:%1</target>
+          <note from="Developer" annotates="general" priority="2">***** ERROR: Al procesar el registro:%1</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - NamedType ProcessErr</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - NamedType 1384505426" size-unit="char" translate="yes">
+          <source>***** ERROR: El IVA del fichero %2 no coincide con el definido en Navision %1</source>
+          <target>***** ERROR: El IVA del fichero %2 no coincide con el definido en Navision %1</target>
+          <note from="Developer" annotates="general" priority="2">***** ERROR: El IVA del fichero %2 no coincide con el definido en Navision %1</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - NamedType VATErr</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - NamedType 2958916716" size-unit="char" translate="yes">
+          <source>***** ERROR: No se encuentra ningún IVA con Grupo Registro IVA %1 y %2</source>
+          <target>***** ERROR: No se encuentra ningún IVA con Grupo Registro IVA %1 y %2</target>
+          <note from="Developer" annotates="general" priority="2">***** ERROR: No se encuentra ningún IVA con Grupo Registro IVA %1 y %2</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - NamedType VATRegGrNotFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3051817971 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Warehouse Checkout Code</source>
+          <target>Código Almacen Recogida</target>
+          <note from="Developer" annotates="general" priority="2">Código Almacen Recogida</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field ALMRECOGID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 123109195 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Tax Base</source>
+          <target>Base Imponible</target>
+          <note from="Developer" annotates="general" priority="2">Base Imponible</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field BASEIMP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 35309476 - Property 2879900210" size-unit="char" translate="yes">
+          <source>BaseImp1</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field BaseImp1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 673006093 - Property 2879900210" size-unit="char" translate="yes">
+          <source>BaseImp2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field BaseImp2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1310702710 - Property 2879900210" size-unit="char" translate="yes">
+          <source>BaseImp3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field BaseImp3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1874768983 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Bill-to Customer No.</source>
+          <target>Factura-a Nº cliente</target>
+          <note from="Developer" annotates="general" priority="2">Factura-a Nº cliente</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field BillToCustomerNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 716008284 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Discount/Charge</source>
+          <target>Descuento/Cargo</target>
+          <note from="Developer" annotates="general" priority="2">Descuento/Cargo</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Calif1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1353704901 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Calif2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Calif2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1991401518 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Calif3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Calif3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1822492495 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Calif4</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Calif4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2460189112 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Calif5</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Calif5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1296688760 - Property 2879900210" size-unit="char" translate="yes">
+          <source>AQSF</source>
+          <target>A quien se factura</target>
+          <note from="Developer" annotates="general" priority="2">A quien se factura</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field CLIENTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2055826307 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Internal Vendor Code</source>
+          <target>Código Interno Proveedor</target>
+          <note from="Developer" annotates="general" priority="2">Código Interno Proveedor</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field CODPROD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1610731864 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Response Type Code</source>
+          <target>Código de tipo de Respuesta</target>
+          <note from="Developer" annotates="general" priority="2">Código de tipo de Respuesta</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field CODRES - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 901181317 - Property 2879900210" size-unit="char" translate="yes">
+          <source>QPide</source>
+          <target>Quien pide</target>
+          <note from="Developer" annotates="general" priority="2">Quien pide</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field COMPRADOR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 849942748 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Buy-to country Code</source>
+          <target>Código del país del comprador</target>
+          <note from="Developer" annotates="general" priority="2">Código del país del comprador</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field COMPRADORPAIS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2394943508 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Transport terms description</source>
+          <target>Descripción de términos de entrega o transporte</target>
+          <note from="Developer" annotates="general" priority="2">Descripción de términos de entrega o transporte</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field CONDENTREGA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2720526780 - Property 2879900210" size-unit="char" translate="yes">
+          <source>CondESP</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field CondESP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2429439174 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Special Conditions 2</source>
+          <target>Condiciones especiales 2</target>
+          <note from="Developer" annotates="general" priority="2">Condiciones especiales 2</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field CONDESP2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1791742557 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Special Conditions 3</source>
+          <target>Condiciones especiales 3</target>
+          <note from="Developer" annotates="general" priority="2">Condiciones especiales 3</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field CONDESP3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2898226768 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Special Conditions 4</source>
+          <target>Condiciones especiales 4</target>
+          <note from="Developer" annotates="general" priority="2">Condiciones especiales 4</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field CONDESP4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2260530151 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Special Conditions 5</source>
+          <target>Condiciones especiales 5</target>
+          <note from="Developer" annotates="general" priority="2">Condiciones especiales 5</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field CONDESP5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3528477121 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Payment Conditions</source>
+          <target>Condiciones de pago</target>
+          <note from="Developer" annotates="general" priority="2">Condiciones de pago</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field CONDPAGO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 4204806211 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Buy-to information Contact</source>
+          <target>Persona de contacto de información del comprador</target>
+          <note from="Developer" annotates="general" priority="2">Persona de contacto de información del comprador</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field CONTINFOCOMP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1160398818 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Buy-to order Contact</source>
+          <target>Persona de contacto de pedidos del comprador</target>
+          <note from="Developer" annotates="general" priority="2">Persona de contacto de pedidos del comprador</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field CONTPEDCOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2041916280 - Property 2879900210" size-unit="char" translate="yes">
+          <source>FInal Recipient Postal Code</source>
+          <target>Cód Postal Destinatario Final</target>
+          <note from="Developer" annotates="general" priority="2">Cód Postal Destinatario Final</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field CPDESTFIN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3854659355 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Address of the last consignor</source>
+          <target>Código Postal del último consignador</target>
+          <note from="Developer" annotates="general" priority="2">Código Postal del último consignador</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field CPUCONSIG - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3689535207 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Customer No.</source>
+          <target>Nº cliente</target>
+          <note from="Developer" annotates="general" priority="2">Nº cliente</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field CustomerNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Date</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 983670782 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Depto</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Depto - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1600783398 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Sales Departament According to ECI</source>
+          <target>Departamento de Venta segun ECI</target>
+          <note from="Developer" annotates="general" priority="2">Departamento de Venta segun ECI</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field DEPTOVENTA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2197980796 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Payment Method Description</source>
+          <target>Descripción de la forma de pago</target>
+          <note from="Developer" annotates="general" priority="2">Descripción de la forma de pago</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field DESCPAGO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1177270174 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Final Recipient Code</source>
+          <target>Código Destinatario Final</target>
+          <note from="Developer" annotates="general" priority="2">Código Destinatario Final</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field DESTFINAL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2785159721 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Destination of Message</source>
+          <target>Destino del mensaje</target>
+          <note from="Developer" annotates="general" priority="2">Destino del mensaje</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field DESTMSG - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3782010764 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Final Recipient Address</source>
+          <target>Dirección Destinatario Final</target>
+          <note from="Developer" annotates="general" priority="2">Dirección Destinatario Final</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field DIRDESTFIN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 982512039 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Address of the last consignor</source>
+          <target>Dirección del último consignador</target>
+          <note from="Developer" annotates="general" priority="2">Dirección del último consignador</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field DIRUCONSIG - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1703512668 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Mutually defined partner EAN Code</source>
+          <target>Código EAN del interlocutor definido mutuamente</target>
+          <note from="Developer" annotates="general" priority="2">Código EAN del interlocutor definido mutuamente</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field EANZZZ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1881450674 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Clave 1</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field EDIKey1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3724658938 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI Label</source>
+          <target>Etiqueta</target>
+          <note from="Developer" annotates="general" priority="2">Etiqueta</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field EDILabel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 245765890 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDIQPAGA</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field EDIQPAGA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 785846857 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Emisor</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Emisor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1045418682 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Entrega</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Entrega - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3407236114 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Error description</source>
+          <target>Descripción error</target>
+          <note from="Developer" annotates="general" priority="2">Descripción error</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field ErrorDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2443827353 - Property 2879900210" size-unit="char" translate="yes">
+          <source>FContrat</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field FContrat - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3604239114 - Property 2879900210" size-unit="char" translate="yes">
+          <source>FechaEPR</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field FechaEPR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1003122821 - Property 2879900210" size-unit="char" translate="yes">
+          <source>FechaERE</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field FechaERE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1130191262 - Property 2879900210" size-unit="char" translate="yes">
+          <source>FechaTOP</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field FechaTOP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 808960961 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Reference value date</source>
+          <target>Fecha valor referencia</target>
+          <note from="Developer" annotates="general" priority="2">Fecha valor referencia</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field FECHAV - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3647025403 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Project Specification Number</source>
+          <target>Número de especificación de proyecto</target>
+          <note from="Developer" annotates="general" priority="2">Número de especificación de proyecto</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field FNPROYECTO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2520449071 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Customer Reference Number Date</source>
+          <target>Fecha número de Referencia de Cliente</target>
+          <note from="Developer" annotates="general" priority="2">Fecha número de Referencia de Cliente</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field FNREFCLIENTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2875651003 - Property 2879900210" size-unit="char" translate="yes">
+          <source>FormaPag</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field FormaPag - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1349195409 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Pickup Date</source>
+          <target>Fecha Recogida</target>
+          <note from="Developer" annotates="general" priority="2">Fecha Recogida</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field FRECOGID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3755839931 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Payday Date</source>
+          <target>Fecha del día de pago CORTEFIEL</target>
+          <note from="Developer" annotates="general" priority="2">Fecha del día de pago CORTEFIEL</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field FREFPAG - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 4281462562 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Function</source>
+          <target>Función</target>
+          <note from="Developer" annotates="general" priority="2">Función</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Funcion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2938108582 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Has Error</source>
+          <target>Tiene Error</target>
+          <note from="Developer" annotates="general" priority="2">Tiene Error</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field HasError - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2770139187 - Property 2879900210" size-unit="char" translate="yes">
+          <source>ImpImp1</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field ImpImp1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 388261742 - Property 2879900210" size-unit="char" translate="yes">
+          <source>ImpImp2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field ImpImp2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 4045532421 - Property 2879900210" size-unit="char" translate="yes">
+          <source>ImpImp3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field ImpImp3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 112569794 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Disc. Amount</source>
+          <target>Importe Dto.</target>
+          <note from="Developer" annotates="general" priority="2">Importe Dto.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field ImporteDto1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2494447239 - Property 2879900210" size-unit="char" translate="yes">
+          <source>ImporteDto2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field ImporteDto2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3132143856 - Property 2879900210" size-unit="char" translate="yes">
+          <source>ImporteDto3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field ImporteDto3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2025659645 - Property 2879900210" size-unit="char" translate="yes">
+          <source>ImporteDto4</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field ImporteDto4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2663356262 - Property 2879900210" size-unit="char" translate="yes">
+          <source>ImporteDto5</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field ImporteDto5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3170146760 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Discount Expiration Amount</source>
+          <target>Importe del vencimiento del descuento</target>
+          <note from="Developer" annotates="general" priority="2">Importe del vencimiento del descuento</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field IMPVENDISC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3367214708 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Expiration amount 1</source>
+          <target>Importe vencimiento 1</target>
+          <note from="Developer" annotates="general" priority="2">Importe vencimiento 1</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field IMPVTO1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 4004911325 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Expiration amount 2</source>
+          <target>Importe vencimiento 2</target>
+          <note from="Developer" annotates="general" priority="2">Importe vencimiento 2</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field IMPVTO2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 347640646 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Expiration amount 3</source>
+          <target>Importe vencimiento 3</target>
+          <note from="Developer" annotates="general" priority="2">Importe vencimiento 3</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field IMPVTO3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3025229423 - Property 2879900210" size-unit="char" translate="yes">
+          <source>LPrecios</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field LPrecios - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1879835551 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Aditional Identification Delivery Place</source>
+          <target>Identificacion Adicional del lugar de entrega</target>
+          <note from="Developer" annotates="general" priority="2">Identificacion Adicional del lugar de entrega</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field LUGADIENT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1392655956 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Manufacturer EAN Code</source>
+          <target>Codigo EAN del manufacturador</target>
+          <note from="Developer" annotates="general" priority="2">Codigo EAN del manufacturador</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field MANUFACTURADOR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3651054688 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Moneda</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Moneda - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3181877868 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Muelle</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Muelle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 407178945 - Property 2879900210" size-unit="char" translate="yes">
+          <source>NContrat</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field NContrat - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3320535262 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Nodo</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Nodo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3796329534 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Merchandise recipient contact name</source>
+          <target>Nombre contacto receptor mercancía</target>
+          <note from="Developer" annotates="general" priority="2">Nombre contacto receptor mercancía</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field NOMCONREC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1453038621 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Final Recipient Name</source>
+          <target>Nombre Destinatario Final</target>
+          <note from="Developer" annotates="general" priority="2">Nombre Destinatario Final</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field NOMDESTFIN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 4285798769 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Project Specification Number</source>
+          <target>Número de especificación de proyecto</target>
+          <note from="Developer" annotates="general" priority="2">Número de especificación de proyecto</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field NPROYECTO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1912067821 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Customer Reference Number</source>
+          <target>Número de Referencia de Cliente</target>
+          <note from="Developer" annotates="general" priority="2">Número de Referencia de Cliente</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field NREFCLIENTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3185653291 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Store Shipment No.</source>
+          <target>Número de albarán del proveedor</target>
+          <note from="Developer" annotates="general" priority="2">Número de albarán del proveedor</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field NUMALB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2359729545 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Order No.</source>
+          <target>Nº Pedido</target>
+          <note from="Developer" annotates="general" priority="2">Nº Pedido</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field NumPed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2699445952 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Provisional Order No.</source>
+          <target>Número de pedido del pedido provisional</target>
+          <note from="Developer" annotates="general" priority="2">Número de pedido del pedido provisional</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field NUMPEDPROV - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1245324520 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Store Order No.</source>
+          <target>Número de pedido de la tienda</target>
+          <note from="Developer" annotates="general" priority="2">Número de pedido de la tienda</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field NUMPEDTIENDA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1963125955 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Promotion number assigned by AMAZON</source>
+          <target>Número de promoción asignado por AMAZON</target>
+          <note from="Developer" annotates="general" priority="2">Número de promoción asignado por AMAZON</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field NUMPROMO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 422487102 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Reservation Number</source>
+          <target>Número de Reserva</target>
+          <note from="Developer" annotates="general" priority="2">Número de Reserva</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field NUMRESERVA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2740092018 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Heel Number</source>
+          <target>Número de Talón</target>
+          <note from="Developer" annotates="general" priority="2">Número de Talón</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field NUMTALON - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2187335658 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Total Package Order</source>
+          <target>Total bultos del pedido</target>
+          <note from="Developer" annotates="general" priority="2">Total bultos del pedido</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field NUMTOBUL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3676675566 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EAN Code Who placing the order</source>
+          <target>Codigo EAN de quien realiza el pedido</target>
+          <note from="Developer" annotates="general" priority="2">Codigo EAN de quien realiza el pedido</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field ORDENADOR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1177692438 - Property 2879900210" size-unit="char" translate="yes">
+          <source>No. days for payment</source>
+          <target>Nº Dias para el pago</target>
+          <note from="Developer" annotates="general" priority="2">Nº Dias para el pago</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field PATDIAS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 4292893884 - Property 2879900210" size-unit="char" translate="yes">
+          <source>No. months for payment</source>
+          <target>Nº meses para el pago</target>
+          <note from="Developer" annotates="general" priority="2">Nº meses para el pago</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field PATMESES - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2564066184 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Payment time Ref.</source>
+          <target>Ref. tiempo pago</target>
+          <note from="Developer" annotates="general" priority="2">Ref. tiempo pago</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field PATREF - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2275582352 - Property 2879900210" size-unit="char" translate="yes">
+          <source>PedAbier</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field PedAbier - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 4136544792 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Total Gross Weight</source>
+          <target>Peso Bruto Total</target>
+          <note from="Developer" annotates="general" priority="2">Peso Bruto Total</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field PESBRUTOT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3503363966 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Final Recipient City</source>
+          <target>Población Destinatario Final</target>
+          <note from="Developer" annotates="general" priority="2">Población Destinatario Final</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field POBDESTFIN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 760878713 - Property 2879900210" size-unit="char" translate="yes">
+          <source>City of the last consignor</source>
+          <target>Población del último consignador</target>
+          <note from="Developer" annotates="general" priority="2">Población del último consignador</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field POBUCONSIG - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3070288837 - Property 2879900210" size-unit="char" translate="yes">
+          <source>PorcenDto1</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field PorcenDto1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2432592220 - Property 2879900210" size-unit="char" translate="yes">
+          <source>PorcenDto2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field PorcenDto2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1794895603 - Property 2879900210" size-unit="char" translate="yes">
+          <source>PorcenDto3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field PorcenDto3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1157198986 - Property 2879900210" size-unit="char" translate="yes">
+          <source>PorcenDto4</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field PorcenDto4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 519502369 - Property 2879900210" size-unit="char" translate="yes">
+          <source>PorcenDto5</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field PorcenDto5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2264408617 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Portes</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Portes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3208180638 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Processed</source>
+          <target>Procesado</target>
+          <note from="Developer" annotates="general" priority="2">Procesado</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Processed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2969455536 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Final Recipient County</source>
+          <target>Provincia Destinatario Final</target>
+          <note from="Developer" annotates="general" priority="2">Provincia Destinatario Final</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field PROVDESTFIN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3566125443 - Property 2879900210" size-unit="char" translate="yes">
+          <source>County of the last consignor</source>
+          <target>Provincia del último consignador</target>
+          <note from="Developer" annotates="general" priority="2">Provincia del último consignador</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field PROVUCONSIG - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1570593340 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Receptor</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Receptor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1450415930 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Delivery Place Employee or department Code</source>
+          <target>Código del departamento o del empleado del lugar de entrega de la mercancía</target>
+          <note from="Developer" annotates="general" priority="2">Código del departamento o del empleado del lugar de entrega de la mercancía</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field RECEPTORCONTCOD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2846813701 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Receiver Country Code</source>
+          <target>Código del país del receptor</target>
+          <note from="Developer" annotates="general" priority="2">Código del país del receptor</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field RECEPTORPAIS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3318471508 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Recogida</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Recogida - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2798745038 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Reposi</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Reposi - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 4013465366 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Secuen1</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Secuen1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2100375515 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Secuen2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Secuen2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2738072132 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Secuen3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Secuen3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 824982281 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Secuen4</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Secuen4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1462678898 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Secuen5</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Secuen5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2262265896 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Ship-to Code</source>
+          <target>Cód. dirección envío cliente</target>
+          <note from="Developer" annotates="general" priority="2">Cód. dirección envío cliente</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field ShipToCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1386785973 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Successful Confirmation</source>
+          <target>Confirmación Exitosa</target>
+          <note from="Developer" annotates="general" priority="2">Confirmación Exitosa</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field SuccessfulConfirmation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 917343344 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Branch office Code according to ECI</source>
+          <target>Código sucursal que hizo el pedido segun ECI</target>
+          <note from="Developer" annotates="general" priority="2">Código sucursal que hizo el pedido segun ECI</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field SUCURSAL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 4063811606 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TasaImp1</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TasaImp1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2150721755 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TasaImp2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TasaImp2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2788418372 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TasaImp3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TasaImp3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 910651326 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Gross Total Amount</source>
+          <target>Importe total Bruto</target>
+          <note from="Developer" annotates="general" priority="2">Importe total Bruto</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TBruto - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 372485130 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Total Charges and Discounts</source>
+          <target>Total Cargos y Descuentos</target>
+          <note from="Developer" annotates="general" priority="2">Total Cargos y Descuentos</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TCARDES - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 474336681 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Transport mode description</source>
+          <target>Teléfono Contacto Proveedor</target>
+          <note from="Developer" annotates="general" priority="2">Teléfono Contacto Proveedor</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TELEFCOMP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3262506088 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Final Recipient phone</source>
+          <target>Teléfono Destinatario Final</target>
+          <note from="Developer" annotates="general" priority="2">Teléfono Destinatario Final</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TELFDESTFIN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1004799826 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Final Recipient phone 2</source>
+          <target>Teléfono 2 Destinatario Final</target>
+          <note from="Developer" annotates="general" priority="2">Teléfono 2 Destinatario Final</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TELFDESTFIN2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 4034114023 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Order Season According to ECI</source>
+          <target>Temporada de pedidos segun ECI</target>
+          <note from="Developer" annotates="general" priority="2">Temporada de pedidos segun ECI</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TEMPORADA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2358565528 - Property 2879900210" size-unit="char" translate="yes">
+          <source>AMAZON Account Type Identifier</source>
+          <target>Identificador Tipo Cuenta AMAZON</target>
+          <note from="Developer" annotates="general" priority="2">Identificador Tipo Cuenta AMAZON</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TIPOCTA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1847014464 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TipoDto1</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TipoDto1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2484711081 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TipoDto2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TipoDto2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3122407698 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TipoDto3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TipoDto3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3760104315 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TipoDto4</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TipoDto4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 102833636 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TipoDto5</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TipoDto5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2305722545 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TipoImp1</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TipoImp1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1668025928 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TipoImp2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TipoImp2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1030329311 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TipoImp3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TipoImp3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1672612408 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Net Total Amount</source>
+          <target>Importe total Neto</target>
+          <note from="Developer" annotates="general" priority="2">Importe total Neto</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TNeto - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3898448809 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Total Payable</source>
+          <target>Total a Pagar</target>
+          <note from="Developer" annotates="general" priority="2">Total a Pagar</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TotalPagar - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3184295697 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Total Item Ordered</source>
+          <target>Cantidad Total de artículos pedidos</target>
+          <note from="Developer" annotates="general" priority="2">Cantidad Total de artículos pedidos</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TOTCANT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 4249052661 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Total taxes</source>
+          <target>Total Impuestos</target>
+          <note from="Developer" annotates="general" priority="2">Total Impuestos</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TotImpue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 774916129 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Transporter Code</source>
+          <target>Cód Transportista</target>
+          <note from="Developer" annotates="general" priority="2">Cód Transportista</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TRANSPOR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 155317349 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Transport Mode</source>
+          <target>Modo de transporte</target>
+          <note from="Developer" annotates="general" priority="2">Modo de transporte</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TRANSPORT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 2922651266 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Transport mode description code</source>
+          <target>Código de descripción del modo de transporte</target>
+          <note from="Developer" annotates="general" priority="2">Código de descripción del modo de transporte</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TRANSPORTCODESC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 1847587222 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Transport mode description</source>
+          <target>Descripción del modo de transporte</target>
+          <note from="Developer" annotates="general" priority="2">Descripción del modo de transporte</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field TRANSPORTDESC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 4134133368 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EAN code of the last consignor</source>
+          <target>Codigo EAN del último consignador</target>
+          <note from="Developer" annotates="general" priority="2">Codigo EAN del último consignador</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field UCONSIGNADOR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3821837223 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Vendedor</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field Vendedor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 3772631088 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Expiration date 1</source>
+          <target>Fecha vencimiento 1</target>
+          <note from="Developer" annotates="general" priority="2">Fecha vencimiento 1</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field VTO1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 115360409 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Expiration date 2</source>
+          <target>Fecha vencimiento 2</target>
+          <note from="Developer" annotates="general" priority="2">Fecha vencimiento 2</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field VTO2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986684536 - Field 753057026 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Expiration date 3</source>
+          <target>Fecha vencimiento 3</target>
+          <note from="Developer" annotates="general" priority="2">Fecha vencimiento 3</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesHeader - Field VTO3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI Orders V24</source>
+          <target>Pedidos EDI V24</target>
+          <note from="Developer" annotates="general" priority="2">Pedidos EDI V24</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2368144823 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Author name</source>
+          <target>Nombre del autor</target>
+          <note from="Developer" annotates="general" priority="2">Nombre del autor</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field AUTOR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 301962980 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Number of boxes per pallet layer</source>
+          <target>Número de cajas por capa de palet</target>
+          <note from="Developer" annotates="general" priority="2">Número de cajas por capa de palet</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field CAJASXCAP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 716008284 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Discount/Charge</source>
+          <target>Descuento/Cargo</target>
+          <note from="Developer" annotates="general" priority="2">Descuento/Cargo</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field Calif1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1353704901 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Calif2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field Calif2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1991401518 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Calif3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field Calif3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1822492495 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Calif4</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field Calif4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2815744158 - Property 2879900210" size-unit="char" translate="yes">
+          <source>CantBoni</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field CantBoni - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1330720772 - Property 2879900210" size-unit="char" translate="yes">
+          <source>CantGrat</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field CantGrat - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 704565339 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Quantity</source>
+          <target>Cantidad</target>
+          <note from="Developer" annotates="general" priority="2">Cantidad</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field CantPed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1306230384 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Subpackage units</source>
+          <target>Unidades de subembalaje</target>
+          <note from="Developer" annotates="general" priority="2">Unidades de subembalaje</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field CANTSUB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 343049084 - Property 2879900210" size-unit="char" translate="yes">
+          <source>CantUE</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field CantUE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3425061314 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Number of layer per pallet</source>
+          <target>Número de capas por palet</target>
+          <note from="Developer" annotates="general" priority="2">Número de capas por palet</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field CAPAXPAL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 477757577 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Final Customer City and County Name</source>
+          <target>Nombre de ciudad y provincia del cliente final</target>
+          <note from="Developer" annotates="general" priority="2">Nombre de ciudad y provincia del cliente final</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field CIUDADCLF - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2186765695 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EAN code of the end customer</source>
+          <target>Código EAN del cliente final</target>
+          <note from="Developer" annotates="general" priority="2">Código EAN del cliente final</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field CLIENTEFIN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 4156344050 - Property 2879900210" size-unit="char" translate="yes">
+          <source>ISBN Code</source>
+          <target>Código ISBN</target>
+          <note from="Developer" annotates="general" priority="2">Código ISBN</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field CODISBN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2391492055 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Color according to ECI</source>
+          <target>Color segun ECI</target>
+          <note from="Developer" annotates="general" priority="2">Color segun ECI</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field COLOR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3386363204 - Property 2879900210" size-unit="char" translate="yes">
+          <source>End customer information purchase</source>
+          <target>Persona de contacto de compras del cliente final</target>
+          <note from="Developer" annotates="general" priority="2">Persona de contacto de compras del cliente final</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field CONTACTCOMPCLF - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 619962369 - Property 2879900210" size-unit="char" translate="yes">
+          <source>End customer information contact</source>
+          <target>Persona de contacto de información del cliente final</target>
+          <note from="Developer" annotates="general" priority="2">Persona de contacto de información del cliente final</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field CONTACTINFOCLF - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3576994308 - Property 2879900210" size-unit="char" translate="yes">
+          <source>End customer information order</source>
+          <target>Persona de contacto de pedidos del cliente final</target>
+          <note from="Developer" annotates="general" priority="2">Persona de contacto de pedidos del cliente final</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field CONTACTPEDCLF - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2011928534 - Property 2879900210" size-unit="char" translate="yes">
+          <source>End customer postal code</source>
+          <target>Código Postal del cliente final</target>
+          <note from="Developer" annotates="general" priority="2">Código Postal del cliente final</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field CPCLF - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 567481748 - Property 2879900210" size-unit="char" translate="yes">
+          <source>DESCCONS</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field DESCCONS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1952140869 - Property 2879900210" size-unit="char" translate="yes">
+          <source>DescMer</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field DescMer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 297694611 - Property 2879900210" size-unit="char" translate="yes">
+          <source>DescMer2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field DescMer2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2474023342 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Coded Item Description</source>
+          <target>Descripción del artículo codíficada</target>
+          <note from="Developer" annotates="general" priority="2">Descripción del artículo codíficada</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field DESCOD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 448812362 - Property 2879900210" size-unit="char" translate="yes">
+          <source>End customer address</source>
+          <target>Domicilio del cliente final</target>
+          <note from="Developer" annotates="general" priority="2">Domicilio del cliente final</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field DOMICILIOCLF - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 304793878 - Property 2879900210" size-unit="char" translate="yes">
+          <source>DUN14</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field DUN14 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1881450674 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Clave 1</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field EDIKey1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 4263328119 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Clave 2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field EDIKey2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3724658938 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI Label</source>
+          <target>Etiqueta</target>
+          <note from="Developer" annotates="general" priority="2">Etiqueta</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field EDILabel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3441171385 - Property 2879900210" size-unit="char" translate="yes">
+          <source>FechaCad</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field FechaCad - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3386714248 - Property 2879900210" size-unit="char" translate="yes">
+          <source>FechaE</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field FechaE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 4580528 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Shipment Date</source>
+          <target>Fecha de envío</target>
+          <note from="Developer" annotates="general" priority="2">Fecha de envío</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field FECHAENV - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3604239114 - Property 2879900210" size-unit="char" translate="yes">
+          <source>FechaEPR</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field FechaEPR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1130191262 - Property 2879900210" size-unit="char" translate="yes">
+          <source>FechaTOP</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field FechaTOP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2210057827 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Request Delivery date</source>
+          <target>Fecha de entrega solicitada</target>
+          <note from="Developer" annotates="general" priority="2">Fecha de entrega solicitada</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field FECNUMCLIFIN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3371030474 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Reference date</source>
+          <target>Fecha de referencia</target>
+          <note from="Developer" annotates="general" priority="2">Fecha de referencia</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field FECNUMPEDCOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2778390960 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Expedition Format Type</source>
+          <target>Tipo Formato de la unidad de expedicion</target>
+          <note from="Developer" annotates="general" priority="2">Tipo Formato de la unidad de expedicion</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field FORMATO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 4043631802 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Format Type 2</source>
+          <target>Tipo de formato 2</target>
+          <note from="Developer" annotates="general" priority="2">Tipo de formato 2</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field FORMATO2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3405935185 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Format Type 3</source>
+          <target>Tipo Formato 3</target>
+          <note from="Developer" annotates="general" priority="2">Tipo Formato 3</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field FORMATO3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3811046803 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Buyers Internal Product Group</source>
+          <target>Grupo de producto Interno del comprador</target>
+          <note from="Developer" annotates="general" priority="2">Grupo de producto Interno del comprador</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field GRUPOPRODIN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2866370502 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Customs Identity</source>
+          <target>Identidad Aduanera</target>
+          <note from="Developer" annotates="general" priority="2">Identidad Aduanera</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field IDENTADU - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1342622632 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Product or service Identifier</source>
+          <target>Identificador de producto o servicio</target>
+          <note from="Developer" annotates="general" priority="2">Identificador de producto o servicio</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field IDENTIFPROD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2770139187 - Property 2879900210" size-unit="char" translate="yes">
+          <source>ImpImp1</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field ImpImp1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 388261742 - Property 2879900210" size-unit="char" translate="yes">
+          <source>ImpImp2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field ImpImp2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 4045532421 - Property 2879900210" size-unit="char" translate="yes">
+          <source>ImpImp3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field ImpImp3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 112569794 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Disc. Amount</source>
+          <target>Importe Dto.</target>
+          <note from="Developer" annotates="general" priority="2">Importe Dto.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field ImporteDto1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2494447239 - Property 2879900210" size-unit="char" translate="yes">
+          <source>ImporteDto2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field ImporteDto2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3132143856 - Property 2879900210" size-unit="char" translate="yes">
+          <source>ImporteDto3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field ImporteDto3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2025659645 - Property 2879900210" size-unit="char" translate="yes">
+          <source>ImporteDto4</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field ImporteDto4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1413777066 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Additional text for label, line 1</source>
+          <target>Texto adicional para etiqueta, linea 1</target>
+          <note from="Developer" annotates="general" priority="2">Texto adicional para etiqueta, linea 1</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field INFOETIQ1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3795654511 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Additional text for label, line 2</source>
+          <target>Texto adicional para etiqueta, linea 2</target>
+          <note from="Developer" annotates="general" priority="2">Texto adicional para etiqueta, linea 2</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field INFOETIQ2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 138383832 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Additional text for label, line 3</source>
+          <target>Texto adicional para etiqueta, linea 3</target>
+          <note from="Developer" annotates="general" priority="2">Texto adicional para etiqueta, linea 3</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field INFOETIQ3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes">
+          <source>No.</source>
+          <target>Nº</target>
+          <note from="Developer" annotates="general" priority="2">Nº</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3069402880 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Model/Brand</source>
+          <target>Modelo/Marca</target>
+          <note from="Developer" annotates="general" priority="2">Modelo/Marca</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field MARCA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3022280156 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Model Name according to ECI</source>
+          <target>Nombre del modelo segun ECI</target>
+          <note from="Developer" annotates="general" priority="2">Nombre del modelo segun ECI</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field MODELO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 27996530 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Price Currency</source>
+          <target>Divisa del precio</target>
+          <note from="Developer" annotates="general" priority="2">Divisa del precio</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field MONEDAPRECIO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2705413348 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Neto</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field Neto - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2716455716 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Number of consumption units in the unit of measure</source>
+          <target>Número de unidades de consumo en la unidad de medida</target>
+          <note from="Developer" annotates="general" priority="2">Número de unidades de consumo en la unidad de medida</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field NUCUE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2499623234 - Property 2879900210" size-unit="char" translate="yes">
+          <source>No of expeditions</source>
+          <target>Número de unidades de expedición</target>
+          <note from="Developer" annotates="general" priority="2">Número de unidades de expedición</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field NUEXP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 35547480 - Property 2879900210" size-unit="char" translate="yes">
+          <source>No of expeditions 2</source>
+          <target>Número de unidades de expedición 2</target>
+          <note from="Developer" annotates="general" priority="2">Número de unidades de expedición 2</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field NUEXP2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3692818159 - Property 2879900210" size-unit="char" translate="yes">
+          <source>No of expeditions 3</source>
+          <target>Número de unidades de expedición 3</target>
+          <note from="Developer" annotates="general" priority="2">Número de unidades de expedición 3</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field NUEXP3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3102167827 - Property 2879900210" size-unit="char" translate="yes">
+          <source>End customer reference number</source>
+          <target>Número de referencia del cliente final</target>
+          <note from="Developer" annotates="general" priority="2">Número de referencia del cliente final</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field NUMCLIFIN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3053973530 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Order No (Purchaser)</source>
+          <target>Numero de pedido (Comprador)</target>
+          <note from="Developer" annotates="general" priority="2">Numero de pedido (Comprador)</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field NUMPEDCOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2246375069 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Gross Box Weight</source>
+          <target>Peso Bruto de caja</target>
+          <note from="Developer" annotates="general" priority="2">Peso Bruto de caja</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field PBCAJA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 668466625 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Net Weight of Box</source>
+          <target>Peso Neto de la Caja</target>
+          <note from="Developer" annotates="general" priority="2">Peso Neto de la Caja</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field PNCAJA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3070288837 - Property 2879900210" size-unit="char" translate="yes">
+          <source>PorcenDto1</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field PorcenDto1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2432592220 - Property 2879900210" size-unit="char" translate="yes">
+          <source>PorcenDto2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field PorcenDto2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1794895603 - Property 2879900210" size-unit="char" translate="yes">
+          <source>PorcenDto3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field PorcenDto3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1157198986 - Property 2879900210" size-unit="char" translate="yes">
+          <source>PorcenDto4</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field PorcenDto4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 902025500 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Gross Price</source>
+          <target>Precio Bruto</target>
+          <note from="Developer" annotates="general" priority="2">Precio Bruto</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field PrecioB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2346327757 - Property 2879900210" size-unit="char" translate="yes">
+          <source>PrecioI</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field PrecioI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3452811968 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Net Price</source>
+          <target>Precio Neto</target>
+          <note from="Developer" annotates="general" priority="2">Precio Neto</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field PrecioN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1907457659 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Presentation Format</source>
+          <target>Presentacion Formato</target>
+          <note from="Developer" annotates="general" priority="2">Presentacion Formato</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field PRESENTACION - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 895405004 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Purchase Unit</source>
+          <target>Unidad de Compra</target>
+          <note from="Developer" annotates="general" priority="2">Unidad de Compra</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field PUM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 4141181514 - Property 2879900210" size-unit="char" translate="yes">
+          <source>PVP</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field PVP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2687978569 - Property 2879900210" size-unit="char" translate="yes">
+          <source>RefCli</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field RefCli - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1606277885 - Property 2879900210" size-unit="char" translate="yes">
+          <source>RefEAN</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field RefEAN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1310587308 - Property 2879900210" size-unit="char" translate="yes">
+          <source>REFETIQ</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field REFETIQ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2596966678 - Property 2879900210" size-unit="char" translate="yes">
+          <source>RefProv</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field RefProv - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 4013465366 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Secuen1</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field Secuen1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2100375515 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Secuen2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field Secuen2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2738072132 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Secuen3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field Secuen3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 824982281 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Secuen4</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field Secuen4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1335731556 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Serial Name according to ECI</source>
+          <target>Nombre de la serie segun ECI</target>
+          <note from="Developer" annotates="general" priority="2">Nombre de la serie segun ECI</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field SERIE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3811509056 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Item Size</source>
+          <target>Talla del artículo</target>
+          <note from="Developer" annotates="general" priority="2">Talla del artículo</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field TALLA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 26289065 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Size or Last</source>
+          <target>Tamaño u Horma</target>
+          <note from="Developer" annotates="general" priority="2">Tamaño u Horma</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field TAMAÑO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3567087181 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TasaImp</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field TasaImp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 4063811606 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TasaImp1</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field TasaImp1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2150721755 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TasaImp2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field TasaImp2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2788418372 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TasaImp3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field TasaImp3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1235803761 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EAN13 or DUN14 code of the packaging</source>
+          <target>Código EAN13 o DUN14 del embalaje</target>
+          <note from="Developer" annotates="general" priority="2">Código EAN13 o DUN14 del embalaje</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field TIPEMB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1847014464 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TipoDto1</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field TipoDto1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2484711081 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TipoDto2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field TipoDto2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3122407698 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TipoDto3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field TipoDto3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3760104315 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TipoDto4</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field TipoDto4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2305722545 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TipoImp1</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field TipoImp1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1668025928 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TipoImp2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field TipoImp2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1030329311 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TipoImp3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field TipoImp3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2957514625 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Title of work</source>
+          <target>Título de la obra</target>
+          <note from="Developer" annotates="general" priority="2">Título de la obra</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field TITULO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 760851772 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Unit of measure for the quantity in the CANTUE field</source>
+          <target>Unidad de medida de la cantidad del campo CANTUE</target>
+          <note from="Developer" annotates="general" priority="2">Unidad de medida de la cantidad del campo CANTUE</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field UMCANTUE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 1112303319 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Unit of M. Code</source>
+          <target>Cod. Ud. Medida</target>
+          <note from="Developer" annotates="general" priority="2">Cod. Ud. Medida</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field UMedida - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 3892857597 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Unit of measure for gross box weight</source>
+          <target>Unidad de medida del peso bruto de la caja</target>
+          <note from="Developer" annotates="general" priority="2">Unidad de medida del peso bruto de la caja</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field UMPBCAJA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2574471457 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Unit of measure for net box weight</source>
+          <target>Unidad de medida del peso neto de la caja</target>
+          <note from="Developer" annotates="general" priority="2">Unidad de medida del peso neto de la caja</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field UMPNCAJA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2545717065 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Purchase Unit</source>
+          <target>Unidad de Compra</target>
+          <note from="Developer" annotates="general" priority="2">Unidad de Compra</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field UNIDCOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2385270358 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Unit of Measure Code</source>
+          <target>Cód. unidad medida</target>
+          <note from="Developer" annotates="general" priority="2">Cód. unidad medida</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field Unit of Measure Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2996960159 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Unit of measure of gross unit price</source>
+          <target>Unidad de medida del precio bruto unitario</target>
+          <note from="Developer" annotates="general" priority="2">Unidad de medida del precio bruto unitario</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field UPRECIOB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2059384971 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Unit of measure of net unit price</source>
+          <target>Unidad de medida del precio neto unitario</target>
+          <note from="Developer" annotates="general" priority="2">Unidad de medida del precio neto unitario</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field UPRECION - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 283252498 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Line volume, for import orders</source>
+          <target>Volumen de línea, para pedidos de importación</target>
+          <note from="Developer" annotates="general" priority="2">Volumen de línea, para pedidos de importación</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field VOLUMEN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 2711525607 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Unit of measure for volume, for import orders</source>
+          <target>Unidad de medida del volumen, para pedidos de importación</target>
+          <note from="Developer" annotates="general" priority="2">Unidad de medida del volumen, para pedidos de importación</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field VOLUMUM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 696345535 - Field 41594898 - Property 2879900210" size-unit="char" translate="yes">
+          <source>VP</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIEDISalesLine - Field VP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 869801520 - Field 2369664869 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Created by</source>
+          <target>Creado por</target>
+          <note from="Developer" annotates="general" priority="2">Creado por</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIImportExportPanel - Field Created By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 869801520 - Field 1407200743 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Creation Date</source>
+          <target>Fecha de Creación</target>
+          <note from="Developer" annotates="general" priority="2">Fecha de Creación</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIImportExportPanel - Field Creation Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 869801520 - Field 788537400 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Creation Time</source>
+          <target>Hora de Creación</target>
+          <note from="Developer" annotates="general" priority="2">Hora de Creación</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIImportExportPanel - Field Creation Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 869801520 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Document Type</source>
+          <target>Tipo Documento</target>
+          <note from="Developer" annotates="general" priority="2">Tipo Documento</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIImportExportPanel - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 869801520 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Entry No.</source>
+          <target>Nº movimiento</target>
+          <note from="Developer" annotates="general" priority="2">Nº movimiento</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIImportExportPanel - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 869801520 - Field 3374690962 - Property 2879900210" size-unit="char" translate="yes">
+          <source>File</source>
+          <target>Fichero</target>
+          <note from="Developer" annotates="general" priority="2">Fichero</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIImportExportPanel - Field File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 869801520 - Field 3208180638 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Processed</source>
+          <target>Procesado</target>
+          <note from="Developer" annotates="general" priority="2">Procesado</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIImportExportPanel - Field Processed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 285160085 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Inbound Box</source>
+          <target>Buzón entrada</target>
+          <note from="Developer" annotates="general" priority="2">Buzón entrada</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIInboundBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 285160085 - Field 1249475212 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Created</source>
+          <target>Creado</target>
+          <note from="Developer" annotates="general" priority="2">Creado</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIInboundBox - Field Created - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 285160085 - Field 1016130111 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Entry No.</source>
+          <target>No. movimiento</target>
+          <note from="Developer" annotates="general" priority="2">No. movimiento</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIInboundBox - Field EntryNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 285160085 - Field 2938108582 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Has Error</source>
+          <target>Error</target>
+          <note from="Developer" annotates="general" priority="2">Error</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIInboundBox - Field HasError - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2247447769 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Log Error EDI</source>
+          <target>Log Error EDI</target>
+          <note from="Developer" annotates="general" priority="2">Log Error EDI</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDILogErrorEDI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2247447769 - Field 1205766109 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Clave_1</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDILogErrorEDI - Field Clave_1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2247447769 - Field 568069492 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Clave_2</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDILogErrorEDI - Field Clave_2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2247447769 - Field 4225340171 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Clave_3</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDILogErrorEDI - Field Clave_3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2247447769 - Field 848472796 - Property 2879900210" size-unit="char" translate="yes">
+          <source>ErrorTxt</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDILogErrorEDI - Field ErrorTxt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2247447769 - Field 3054325674 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Type</source>
+          <target>Tipo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDILogErrorEDI - Field FileType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2247447769 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Line No.</source>
+          <target>Nº Línea</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Nº Línea"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDILogErrorEDI - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3556020390 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Outbound Box</source>
+          <target>Buzón salida</target>
+          <note from="Developer" annotates="general" priority="2">Buzón salida</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIOutboundBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3556020390 - Field 1249475212 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Created</source>
+          <target>Creado</target>
+          <note from="Developer" annotates="general" priority="2">Creado</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIOutboundBox - Field Created - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3556020390 - Field 1016130111 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Entry No.</source>
+          <target>No. movimiento</target>
+          <note from="Developer" annotates="general" priority="2">No. movimiento</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIOutboundBox - Field EntryNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3556020390 - Field 3407236114 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Error description</source>
+          <target>Descripción error</target>
+          <note from="Developer" annotates="general" priority="2">Descripción error</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIOutboundBox - Field ErrorDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3556020390 - Field 2938108582 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Has Error</source>
+          <target>Error</target>
+          <note from="Developer" annotates="general" priority="2">Error</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDIOutboundBox - Field HasError - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 196750171 - Property 2879900210" size-unit="char" translate="yes">
+          <source>SOAP Setup</source>
+          <target>Conf. SOAP</target>
+          <note from="Developer" annotates="general" priority="2">Conf. SOAP</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDISOAPSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 196750171 - Field 2526185377 - Property 2879900210" size-unit="char" translate="yes">
+          <source>password</source>
+          <target>Contraseña</target>
+          <note from="Developer" annotates="general" priority="2">Contraseña</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDISOAPSetup - Field password - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 196750171 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Primary Key</source>
+          <target>Clave primaria</target>
+          <note from="Developer" annotates="general" priority="2">Clave primaria</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDISOAPSetup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 196750171 - Field 1814464443 - Property 2879900210" size-unit="char" translate="yes">
+          <source>user</source>
+          <target>Usuario</target>
+          <note from="Developer" annotates="general" priority="2">Usuario</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDISOAPSetup - Field User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 196750171 - Field 803164698 - Property 2879900210" size-unit="char" translate="yes">
+          <source>WS Default API Request</source>
+          <target>WS Petición web por defecto</target>
+          <note from="Developer" annotates="general" priority="2">WS Petición web por defecto</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABPEDISOAPSetup - Field WSDefaultAPIRequest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1647373400 - Method 3587103873 - NamedType 2531612850" size-unit="char" translate="yes">
+          <source>Se necesita la configuración de SOAP, ingrese la URL, el ID de usuario y la contraseña.</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ABPEDIEDICommonsFunctions - Method CallWebService - NamedType SOAPSetupIsNeededErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1647373400 - Method 3770544935 - NamedType 3548723355" size-unit="char" translate="yes">
+          <source>Error durante la publicacion</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ABPEDIEDICommonsFunctions - Method CheckErrorMessage - NamedType Error1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1647373400 - Method 3770544935 - NamedType 1166845910" size-unit="char" translate="yes">
+          <source>Publicacion no autorizada</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ABPEDIEDICommonsFunctions - Method CheckErrorMessage - NamedType Error2</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1647373400 - Method 3770544935 - NamedType 529149293" size-unit="char" translate="yes">
+          <source>Aplicación destino no encontrada</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ABPEDIEDICommonsFunctions - Method CheckErrorMessage - NamedType Error3</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1647373400 - Method 3770544935 - NamedType 1635633504" size-unit="char" translate="yes">
+          <source>Documento incorrecto acorde a la validación sintáctica del esquema</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ABPEDIEDICommonsFunctions - Method CheckErrorMessage - NamedType Error4</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1647373400 - Method 3770544935 - NamedType 997936887" size-unit="char" translate="yes">
+          <source>La aplicación destino no acepta la suscripción</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ABPEDIEDICommonsFunctions - Method CheckErrorMessage - NamedType Error5</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1647373400 - Method 3770544935 - NamedType 2273330121" size-unit="char" translate="yes">
+          <source>Usuario no autorizado a la suscripción</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ABPEDIEDICommonsFunctions - Method CheckErrorMessage - NamedType Error7</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1647373400 - Method 3770544935 - NamedType 3379814332" size-unit="char" translate="yes">
+          <source>La aplicación destino no acepta la suscripción</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ABPEDIEDICommonsFunctions - Method CheckErrorMessage - NamedType Error8</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1647373400 - Method 3770544935 - NamedType 2742117715" size-unit="char" translate="yes">
+          <source>El dominio no permite publicaciones BROADCAST</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ABPEDIEDICommonsFunctions - Method CheckErrorMessage - NamedType Error9</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1647373400 - Method 3770544935 - NamedType 939406987" size-unit="char" translate="yes">
+          <source>El documento no se ha insertado correctamente en la base de datos</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ABPEDIEDICommonsFunctions - Method CheckErrorMessage - NamedType Error10</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1647373400 - Method 3770544935 - NamedType 1577103604" size-unit="char" translate="yes">
+          <source>Problema generando las suscripciones</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ABPEDIEDICommonsFunctions - Method CheckErrorMessage - NamedType Error11</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1647373400 - Method 3770544935 - NamedType 2214800221" size-unit="char" translate="yes">
+          <source>Error registrando la sesión</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ABPEDIEDICommonsFunctions - Method CheckErrorMessage - NamedType Error12</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1647373400 - Method 3770544935 - NamedType 3958981049" size-unit="char" translate="yes">
+          <source>Tamaño de la publicación excedido</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ABPEDIEDICommonsFunctions - Method CheckErrorMessage - NamedType Error16</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1647373400 - Method 3770544935 - NamedType 41974101" size-unit="char" translate="yes">
+          <source>Aplicación destino no se encuentra en la lista de aplicaciones permitidas</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ABPEDIEDICommonsFunctions - Method CheckErrorMessage - NamedType Error21</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1647373400 - Method 3770544935 - NamedType 3699244780" size-unit="char" translate="yes">
+          <source>Aplicación destino se encuentra en la lista de aplicaciones denegadas</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ABPEDIEDICommonsFunctions - Method CheckErrorMessage - NamedType Error22</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1647373400 - Method 3770544935 - NamedType 3061548163" size-unit="char" translate="yes">
+          <source>Aplicación origen no se encuentra en la lista de aplicaciones permitidas</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ABPEDIEDICommonsFunctions - Method CheckErrorMessage - NamedType Error23</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1647373400 - Method 3770544935 - NamedType 2423851546" size-unit="char" translate="yes">
+          <source>Aplicación origen se encuentra en la lista de aplicaciones denegadas</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ABPEDIEDICommonsFunctions - Method CheckErrorMessage - NamedType Error24</note>
+        </trans-unit>
+        <trans-unit id="Page 2999551771 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI Order Card</source>
+          <target>Ficha Pedido EDI</target>
+          <note from="Developer" annotates="general" priority="2">Ficha Pedido EDI</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABPEDIEDIOrderCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2999551771 - Method 1290744071 - NamedType 3752334001" size-unit="char" translate="yes">
+          <source>Order has been succesfully proccesed</source>
+          <target>El pedido ha sido procesado correctamente</target>
+          <note from="Developer" annotates="general" priority="2">El pedido ha sido procesado correctamente</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABPEDIEDIOrderCard - Method ProcessOrder - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 2999551771 - Action 1960272457 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Order Import</source>
+          <target>Procesar Pedido</target>
+          <note from="Developer" annotates="general" priority="2">Procesar Pedido</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABPEDIEDIOrderCard - Action ProcPed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2999551771 - Action 3745710369 - Property 2879900210" size-unit="char" translate="yes">
+          <source>show Errors</source>
+          <target>Ver Errores</target>
+          <note from="Developer" annotates="general" priority="2">Ver Errores</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABPEDIEDIOrderCard - Action Ver Errores - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2828831337 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Pending EDI Orders List</source>
+          <target>Pedidos EDI pendientes</target>
+          <note from="Developer" annotates="general" priority="2">Pedidos EDI pendientes</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABPEDIEDIOrderList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2828831337 - NamedType 3114637384" size-unit="char" translate="yes">
+          <source>Order cannot be proccesed because it contains some error that must have been checked</source>
+          <target>El pedido no se ha podido procesar porque contiene errores que deben ser revisados</target>
+          <note from="Developer" annotates="general" priority="2">El pedido no se ha podido procesar porque contiene errores que deben ser revisados</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABPEDIEDIOrderList - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 2828831337 - NamedType 3752334001" size-unit="char" translate="yes">
+          <source>Order has been succesfully proccesed</source>
+          <target>El pedido ha sido procesado correctamente</target>
+          <note from="Developer" annotates="general" priority="2">El pedido ha sido procesado correctamente</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABPEDIEDIOrderList - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 2828831337 - NamedType 652464844" size-unit="char" translate="yes">
+          <source>Procesing Orders\@1@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</source>
+          <target>Procesando pedidos\@1@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</target>
+          <note from="Developer" annotates="general" priority="2">Procesando pedidos\@1@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABPEDIEDIOrderList - NamedType Text50000</note>
+        </trans-unit>
+        <trans-unit id="Page 2828831337 - NamedType 1448469655" size-unit="char" translate="yes">
+          <source>%1 orders have been processed correctly from %2</source>
+          <target>Se han procesado correctamente %1 pedidos de un total de %2</target>
+          <note from="Developer" annotates="general" priority="2">Se han procesado correctamente %1 pedidos de un total de %2</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABPEDIEDIOrderList - NamedType Text50050</note>
+        </trans-unit>
+        <trans-unit id="Page 2828831337 - NamedType 2086166272" size-unit="char" translate="yes">
+          <source>\Check the %3 orders with error</source>
+          <target>\Revise los %3 pedidos con error.</target>
+          <note from="Developer" annotates="general" priority="2">\Revise los %3 pedidos con error.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABPEDIEDIOrderList - NamedType Text50051</note>
+        </trans-unit>
+        <trans-unit id="Page 2828831337 - Action 3483619671 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Orders Import</source>
+          <target>Importar Pedidos</target>
+          <note from="Developer" annotates="general" priority="2">Importar Pedidos</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABPEDIEDIOrderList - Action ImpPed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2828831337 - Action 1303913193 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Process All Orders</source>
+          <target>Procesar Todos los Pedidos</target>
+          <note from="Developer" annotates="general" priority="2">Procesar Todos los Pedidos</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABPEDIEDIOrderList - Action ProcessAllOrders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2828831337 - Action 422547705 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Process selected Orders</source>
+          <target>Procesar Pedidos seleccionados</target>
+          <note from="Developer" annotates="general" priority="2">Procesar Pedidos seleccionados</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABPEDIEDIOrderList - Action ProcessSelectedOrders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2828831337 - Action 3745710369 - Property 2879900210" size-unit="char" translate="yes">
+          <source>View Errors</source>
+          <target>Ver Errores</target>
+          <note from="Developer" annotates="general" priority="2">Ver Errores</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABPEDIEDIOrderList - Action Ver Errores - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1334174809 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI Order Lines</source>
+          <target>Líneas Pedido EDI</target>
+          <note from="Developer" annotates="general" priority="2">Líneas Pedido EDI</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABPEDIEDIOrderSubform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3299833823 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Log Error List</source>
+          <target>Registro de Errores</target>
+          <note from="Developer" annotates="general" priority="2">Registro de Errores</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABPEDILogErrorEDIList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1456914183 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Processed EDI Orders List</source>
+          <target>Pedidos EDI procesados</target>
+          <note from="Developer" annotates="general" priority="2">Pedidos EDI procesados</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABPEDIProcessedEDIOrderList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 196750171 - Property 2879900210" size-unit="char" translate="yes">
+          <source>SOAP Setup</source>
+          <target>Conf. SOAP</target>
+          <note from="Developer" annotates="general" priority="2">Conf. SOAP</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABPEDISOAPSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1539978237 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Import EDI Orders</source>
+          <target>Importar Pedidos EDI</target>
+          <note from="Developer" annotates="general" priority="2">Importar Pedidos EDI</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ABPEDIImportEDIOrders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1539978237 - NamedType 3302617566" size-unit="char" translate="yes">
+          <source>There´s no more orders to import</source>
+          <target>Ya no hay más pedidos que importar</target>
+          <note from="Developer" annotates="general" priority="2">Ya no hay más pedidos que importar</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ABPEDIImportEDIOrders - NamedType Message001</note>
+        </trans-unit>
+        <trans-unit id="Report 1539978237 - NamedType 1188733386" size-unit="char" translate="yes">
+          <source>Do you want to move the Impor files to the backup directory?</source>
+          <target>¿Desea mover los ficheros de importación al directorio de Backup?</target>
+          <note from="Developer" annotates="general" priority="2">¿Desea mover los ficheros de importación al directorio de Backup?</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ABPEDIImportEDIOrders - NamedType Text50060</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1648951394 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Export EDI Sales Invoice (v26)</source>
+          <target>Exportacion Factura Venta EDI V26</target>
+          <note from="Developer" annotates="general" priority="2">Exportacion Factura Venta EDI V26</note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort ABPEDIExampleEDIInvoiceExport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 2544293836 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Import EDI Sales Order (v24)</source>
+          <target>Importación Pedido Venta EDI V24</target>
+          <note from="Developer" annotates="general" priority="2">Importación Pedido Venta EDI V24</note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort ABPEDIExampleEDIOrderImport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 506647140 - Field 4259075172 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Contract No.</source>
+          <target>Nº Contrato</target>
+          <note from="Developer" annotates="general" priority="2">Nº Contrato</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDICompanyInformation - Field ABPEDIContractNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 506647140 - Field 269257930 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI Code</source>
+          <target>Cód. EDI</target>
+          <note from="Developer" annotates="general" priority="2">Cód. EDI</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDICompanyInformation - Field ABPEDIEDICode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 43504713 - Field 269257930 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI Code</source>
+          <target>Cód. EDI</target>
+          <note from="Developer" annotates="general" priority="2">Cód. EDI</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDICustomer - Field ABPEDIEDICode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1181628064 - Field 3742793758 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Comes From EDI</source>
+          <target>Proviene de EDI</target>
+          <note from="Developer" annotates="general" priority="2">Proviene de EDI</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDISalesHeader - Field ABPEDIComesFromEDI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1181628064 - Field 1718818928 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Emisor</source>
+          <target>Emisor</target>
+          <note from="Developer" annotates="general" priority="2">Emisor</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDISalesHeader - Field ABPEDIEmisor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1181628064 - Field 1679319245 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI External Confirmation No.</source>
+          <target>EDI Nº Confirmación externo</target>
+          <note from="Developer" annotates="general" priority="2">EDI Nº Confirmación externo</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDISalesHeader - Field ABPEDIExternalConfNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1181628064 - Field 1235205896 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI Invoice Class</source>
+          <target>EDI Clase factura</target>
+          <note from="Developer" annotates="general" priority="2">EDI Clase factura</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDISalesHeader - Field ABPEDIInvoiceClass - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1181628064 - Field 1548959518 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI Invoice Type</source>
+          <target>EDI Tipo factura</target>
+          <note from="Developer" annotates="general" priority="2">EDI Tipo factura</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDISalesHeader - Field ABPEDIInvoiceType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1181628064 - Field 673329209 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI Rectification Reason</source>
+          <target>EDI Motivo rectificación</target>
+          <note from="Developer" annotates="general" priority="2">EDI Motivo rectificación</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDISalesHeader - Field ABPEDIRectificationReason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1181628064 - Field 891302760 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Sent to EDI</source>
+          <target>Enviado a EDI</target>
+          <note from="Developer" annotates="general" priority="2">Enviado a EDI</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDISalesHeader - Field ABPEDISentToEDI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1181628064 - Field 2978937704 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Sequence</source>
+          <target>Secuencia</target>
+          <note from="Developer" annotates="general" priority="2">Secuencia</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDISalesHeader - Field ABPEDISequence - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1181628064 - Field 1219332740 - Property 2879900210" size-unit="char" translate="yes">
+          <source>VAT Cash Regime</source>
+          <target>IVA de Régimen de caja</target>
+          <note from="Developer" annotates="general" priority="2">IVA de Régimen de caja</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDISalesHeader - Field ABPEDIVATCashRegime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2972903536 - Field 1644198166 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI Canon Amount </source>
+          <target>Importe Canon EDI</target>
+          <note from="Developer" annotates="general" priority="2">Importe Canon EDI</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDISalesInvoiceLine - Field ABPEDICanonAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2972903536 - Field 2173772210 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI Canon Type</source>
+          <target>Tipo Canon EDI</target>
+          <note from="Developer" annotates="general" priority="2">Tipo Canon EDI</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDISalesInvoiceLine - Field ABPEDICanonType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2972903536 - Field 4040783179 - Property 2879900210" size-unit="char" translate="yes">
+          <source>External Line No.</source>
+          <target>Nº línea externo</target>
+          <note from="Developer" annotates="general" priority="2">Nº línea externo</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDISalesInvoiceLine - Field ABPEDIExternalLineNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1723343815 - Field 1644198166 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI Canon Amount </source>
+          <target>Importe Canon EDI</target>
+          <note from="Developer" annotates="general" priority="2">Importe Canon EDI</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDISalesLine - Field ABPEDICanonAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1723343815 - Field 4040783179 - Property 2879900210" size-unit="char" translate="yes">
+          <source>External Line No.</source>
+          <target>Nº línea externo</target>
+          <note from="Developer" annotates="general" priority="2">Nº línea externo</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDISalesLine - Field ABPEDIExternalLineNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1003219512 - Field 585894050 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI AQSF</source>
+          <target>EDI A quien se Factura</target>
+          <note from="Developer" annotates="general" priority="2">EDI A quien se Factura</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDIShipToAddress - Field ABPEDIAQSF - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1003219512 - Field 269257930 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI Code</source>
+          <target>Cód EDI</target>
+          <note from="Developer" annotates="general" priority="2">Cód EDI</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDIShipToAddress - Field ABPEDIEDICode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1003219512 - Field 319397630 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI QPIDE</source>
+          <target>EDI Quien PIDE</target>
+          <note from="Developer" annotates="general" priority="2">EDI Quien PIDE</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDIShipToAddress - Field ABPEDIQPIDE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1871125712 - Field 269257930 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI Code</source>
+          <target>Código EDI</target>
+          <note from="Developer" annotates="general" priority="2">Código EDI</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDIUnitOfMeasure - Field ABPEDIEDICode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1855764928 - Field 269257930 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EDI Code</source>
+          <target>Código EDI</target>
+          <note from="Developer" annotates="general" priority="2">Código EDI</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABPEDIVATProductPostGroup - Field ABPEDIEDICode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3174445952 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Document Type</source>
+          <target>Tipo Documento</target>
+          <note from="Developer" annotates="general" priority="2">Tipo Documento</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIDocumentType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3174445952 - EnumValue 4034894651 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Sales Invoice</source>
+          <target>Factura de Venta</target>
+          <note from="Developer" annotates="general" priority="2">Factura de Venta</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIDocumentType - EnumValue Sales Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3174445952 - EnumValue 1673401186 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Sales Order</source>
+          <target>Pedido de Venta</target>
+          <note from="Developer" annotates="general" priority="2">Pedido de Venta</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIDocumentType - EnumValue Sales Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 345072815 - EnumValue 309554260 - Property 2879900210" size-unit="char" translate="yes">
+          <source>CABECERA</source>
+          <target>CABECERA</target>
+          <note from="Developer" annotates="general" priority="2">CABECERA</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIFileType - EnumValue CABECERA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 345072815 - EnumValue 3730115204 - Property 2879900210" size-unit="char" translate="yes">
+          <source>CONTENDED</source>
+          <target>CONTENDED</target>
+          <note from="Developer" annotates="general" priority="2">CONTENDED</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIFileType - EnumValue CONTENDED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 345072815 - EnumValue 4089707317 - Property 2879900210" size-unit="char" translate="yes">
+          <source>DTOFAC</source>
+          <target>DTOFAC</target>
+          <note from="Developer" annotates="general" priority="2">DTOFAC</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIFileType - EnumValue DTOFAC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 345072815 - EnumValue 4280555193 - Property 2879900210" size-unit="char" translate="yes">
+          <source>DTOLFAC</source>
+          <target>DTOLFAC</target>
+          <note from="Developer" annotates="general" priority="2">DTOLFAC</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIFileType - EnumValue DTOLFAC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 345072815 - EnumValue 3862837422 - Property 2879900210" size-unit="char" translate="yes">
+          <source>EMB</source>
+          <target>EMB</target>
+          <note from="Developer" annotates="general" priority="2">EMB</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIFileType - EnumValue EMB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 345072815 - EnumValue 2611069716 - Property 2879900210" size-unit="char" translate="yes">
+          <source>IMPFAC</source>
+          <target>IMPFAC</target>
+          <note from="Developer" annotates="general" priority="2">IMPFAC</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIFileType - EnumValue IMPFAC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 345072815 - EnumValue 1629017769 - Property 2879900210" size-unit="char" translate="yes">
+          <source>LINEA</source>
+          <target>LINEA</target>
+          <note from="Developer" annotates="general" priority="2">LINEA</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIFileType - EnumValue LINEA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 345072815 - EnumValue 631118549 - Property 2879900210" size-unit="char" translate="yes">
+          <source>LMARCAS</source>
+          <target>LMARCAS</target>
+          <note from="Developer" annotates="general" priority="2">LMARCAS</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIFileType - EnumValue LMARCAS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 345072815 - EnumValue 1396474164 - Property 2879900210" size-unit="char" translate="yes">
+          <source>LOC</source>
+          <target>LOC</target>
+          <note from="Developer" annotates="general" priority="2">LOC</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIFileType - EnumValue LOC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 345072815 - EnumValue 1202916020 - Property 2879900210" size-unit="char" translate="yes">
+          <source>LOCLFAC</source>
+          <target>LOCLFAC</target>
+          <note from="Developer" annotates="general" priority="2">LOCLFAC</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIFileType - EnumValue LOCLFAC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 345072815 - EnumValue 4024642721 - Property 2879900210" size-unit="char" translate="yes">
+          <source>MARCAS</source>
+          <target>MARCAS</target>
+          <note from="Developer" annotates="general" priority="2">MARCAS</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIFileType - EnumValue MARCAS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 345072815 - EnumValue 4100058819 - Property 2879900210" size-unit="char" translate="yes">
+          <source>OBSER</source>
+          <target>OBSER</target>
+          <note from="Developer" annotates="general" priority="2">OBSER</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIFileType - EnumValue OBSER - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 345072815 - EnumValue 4108821959 - Property 2879900210" size-unit="char" translate="yes">
+          <source>OBSERL</source>
+          <target>OBSERL</target>
+          <note from="Developer" annotates="general" priority="2">OBSERL</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIFileType - EnumValue OBSERL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 345072815 - EnumValue 1021059206 - Property 2879900210" size-unit="char" translate="yes">
+          <source>OBSFAC</source>
+          <target>OBSFAC</target>
+          <note from="Developer" annotates="general" priority="2">OBSFAC</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIFileType - EnumValue OBSFAC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 345072815 - EnumValue 326084559 - Property 2879900210" size-unit="char" translate="yes">
+          <source>OBSLIN</source>
+          <target>OBSLIN</target>
+          <note from="Developer" annotates="general" priority="2">OBSLIN</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIFileType - EnumValue OBSLIN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3365576918 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes">
+          <source />
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIHTTPRequest - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3365576918 - EnumValue 1863735410 - Property 2879900210" size-unit="char" translate="yes">
+          <source>CONNECT</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIHTTPRequest - EnumValue CONNECT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3365576918 - EnumValue 2824216035 - Property 2879900210" size-unit="char" translate="yes">
+          <source>DELETE</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIHTTPRequest - EnumValue DELETE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3365576918 - EnumValue 3259251506 - Property 2879900210" size-unit="char" translate="yes">
+          <source>GET</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIHTTPRequest - EnumValue GET - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3365576918 - EnumValue 525161284 - Property 2879900210" size-unit="char" translate="yes">
+          <source>HEAD</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIHTTPRequest - EnumValue HEAD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3365576918 - EnumValue 2273553268 - Property 2879900210" size-unit="char" translate="yes">
+          <source>OPTIONS</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIHTTPRequest - EnumValue OPTIONS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3365576918 - EnumValue 731819298 - Property 2879900210" size-unit="char" translate="yes">
+          <source>PATCH</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIHTTPRequest - EnumValue PATCH - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3365576918 - EnumValue 1280774356 - Property 2879900210" size-unit="char" translate="yes">
+          <source>POST</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIHTTPRequest - EnumValue POST - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3365576918 - EnumValue 2677525307 - Property 2879900210" size-unit="char" translate="yes">
+          <source>PUT</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIHTTPRequest - EnumValue PUT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3365576918 - EnumValue 377640187 - Property 2879900210" size-unit="char" translate="yes">
+          <source>TRACE</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABPEDIHTTPRequest - EnumValue TRACE - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

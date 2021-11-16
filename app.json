@@ -1,0 +1,37 @@
+{
+  "id": "f29be6fc-860c-4a38-a6be-bdc73f575929",
+  "name": "Basic-EDI-integration",
+  "publisher": "Actio Procesos y Tecnología",
+  "version": "19.0.00000.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "dependencies": [
+    {
+      "id": "89129351-c346-47ea-9ded-bc4cef9705e5",
+      "name": "Actio Rest Helper",
+      "publisher": "Actio Procesos y Tecnología",
+      "version": "18.0.1.0"
+    }
+  ],
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",  
+  "screenshots": [],
+  "platform": "19.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50150,
+      "to": 50199
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://project.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0",
+  "target": "Cloud",
+  "features": ["TranslationFile"],
+  "suppressWarnings": ["AA0013","AA0205","AA0228","AL0667","AA0217","AA0667","AA0175","AA0204","AA0073","AA0206","AA0137","AA0005","AA0008","AA0215","AS0013","AS0053","AS0084",
+    "AA0072","AA0074","AA0218","AW0006", "AS0092", "AA0021", "AW0005"]
+}
