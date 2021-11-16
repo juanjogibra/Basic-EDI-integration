@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [      
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Juanjo",
+            "tenant": "ce0c042a-3d3c-4b62-940c-4ee0887c0746",           
+            "environmentName": "SandboxDEV",
+            "environmentType": "Sandbox",
+            "breakOnError": true,
+            "breakOnRecordWrite": false,
+            "launchBrowser": true,            
+            "schemaUpdateMode": "ForceSync"            
+        }
+    ]
+}
